@@ -1,4 +1,4 @@
-# foodle
+# Foodle
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.7.6.
 
@@ -21,11 +21,10 @@ This project was generated with the [Angular Full-Stack Generator](https://githu
 
 3. Run `mongod` in a separate shell to keep an instance of the MongoDB Daemon running
 
-4. Run `gulp serve` to start the development server. It should automatically open the client in your browser when ready.
 
 ## Build & development
 
-Run `grunt build` for building and `grunt serve` for preview.
+Run `gulp serve` to start the development server. It should automatically open the client in your browser when ready.
 
 ## Testing
 
